@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robiulsagor
+- 👋 Hi, I’m Robiul Islam Sagor
 - 👀 I’m interested in Computer and Web Programming
 - 🌱 I’m currently learning MERN stack and socket.io
 - 💞️ I’m looking to collaborate on ...
