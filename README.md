@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Robiul Islam Sagor
 - 👀 I’m interested in Computer and Web Programming
 - 🌱 I’m currently learning MERN stack and socket.io
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 -  1. 📧 robiul100.me@gmail.com
 -  2. 👤 https://www.facebook.com/robiul.islam.sagor24
